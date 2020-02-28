@@ -38,7 +38,7 @@ Well, you could read more about it in the [Manifesto](./docs/manifesto.md) file 
 
 ## Author(s)
 
-* Michel Pérez Saavedra: <michel.perez.saavedra@gmail.com>
+* [Michel Pérez Saavedra](michel.perez.saavedra@gmail.com)
 
 
 # License
